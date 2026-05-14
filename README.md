@@ -1,3 +1,4 @@
+![logo_ok.jpg](logo_ok.jpg)
 # Rosario Giordano — Parrucchiere a Pallanza (VB)
 
 Sito web monopagina (single-page) del salone di parrucchiere **Rosario Giordano**, situato nel cuore di Pallanza, Verbania.
